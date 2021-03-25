@@ -15,6 +15,6 @@ CSV-файл, содержащий неперсонализированные д
 *pandas, numpy, seaborn, matplotlib, scipy, plotly*
 
 ### Ссылки:
-| Проект в pdf | Jupyter Notebook в nbviewer | Проект на GitHub | 
+| Проект в pdf | Проект в nbviewer | Проект на GitHub | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [bank_metanprom_ya.pdf](https://a-v-stanovoy.github.io/portfolio/analytics_bank_metanprom/bank_metanprom_ya.pdf) | [bank_metanprom_ya.ipynb](https://nbviewer.jupyter.org/github/a-v-stanovoy/portfolio/blob/main/analytics_bank_metanprom/bank_metanprom_ya.ipynb)| [bank_metanprom_ya.ipynb](https://github.com/a-v-stanovoy/portfolio/blob/main/analytics_bank_metanprom/bank_metanprom_ya.ipynb)|
