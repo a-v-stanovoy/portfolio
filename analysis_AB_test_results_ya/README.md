@@ -21,6 +21,6 @@ ___________________________________________________
 
 ### Ссылки:
 
-Проект в pdf - [analysis_AB_test_results_ya.pdf](https://a-v-stanovoy.github.io/portfolio/analysis_AB_test_results_ya/analysis_AB_test_results_ya.pdf)                                           
+Проект в pdf - [analysis_AB_test_results_ya.pdf](https://a-v-stanovoy.github.io/portfolio/analysis_AB_test_results_ya/analysis_AB_test_results_ya.pdf.pdf)                                           
 Проект в nbviewer - [analysis_AB_test_results_ya.ipynb](https://nbviewer.jupyter.org/github/a-v-stanovoy/portfolio/blob/main/analysis_AB_test_results_ya/analysis_AB_test_results_ya.ipynb)                   
 Проект на GitHub - [analysis_AB_test_results_ya.ipynb](https://github.com/a-v-stanovoy/portfolio/blob/main/analysis_AB_test_results_ya/analysis_AB_test_results_ya.ipynb)       
