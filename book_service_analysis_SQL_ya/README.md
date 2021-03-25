@@ -23,3 +23,9 @@ _В рамках проекта выполняется подключение к
 
 ### Библиотеки:
 *pandas, sqlalchemy*
+
+### Ссылки:
+
+Проект в pdf - [book_service_analysis_SQL_ya.pdf](https://a-v-stanovoy.github.io/portfolio/book_service_analysis_SQL_ya/book_service_analysis_SQL_ya.pdf)                                           
+Проект в nbviewer - [book_service_analysis_SQL_ya.ipynb](https://nbviewer.jupyter.org/github/a-v-stanovoy/portfolio/blob/main/book_service_analysis_SQL_ya/book_service_analysis_SQL_ya.ipynb)                   
+Проект на GitHub - [book_service_analysis_SQL_ya.ipynb](https://github.com/a-v-stanovoy/portfolio/blob/main/book_service_analysis_SQL_ya/book_service_analysis_SQL_ya.ipynb)       
