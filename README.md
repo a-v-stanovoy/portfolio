@@ -1,4 +1,4 @@
-Алексей Становой, Телефон-WhatsApp +7(962)-985-51-77 - [Telegram](t.me/alevista) - Email: <alexey.v.stanovoy@gmail.com>     
+Алексей Становой, Телефон-WhatsApp +7(962)-985-51-77 - [Telegram](http://t.me/alevista) - Email: <alexey.v.stanovoy@gmail.com>     
 
 ____________________________________________________________________________________________
 
