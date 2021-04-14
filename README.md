@@ -1,5 +1,5 @@
-Алексей Становой, Телефон-WhatsApp +7(962)-985-51-77 - [Telegram](http://t.me/alevista) - Email: <alexey.v.stanovoy@gmail.com>     
-
+Алексей Становой, Телефон-WhatsApp: +7(962)-985-51-77 - Telegram: <http://t.me/alevista> - Email: <alexey.v.stanovoy@gmail.com>     
+Резюме в pdf - [my_cv_Alexey_Stanovoy.pdf](https://a-v-stanovoy.github.io/portfolio/CV/my_cv_Alexey_Stanovoy.pdf)  
 ____________________________________________________________________________________________
 
 ## Проекты, выполненные в Яндекс.Практикуме, по профессии "Аналитик данных".             
